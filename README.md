@@ -1,3 +1,5 @@
+## MÓDULO DESCONTINUADO: Este módulo não receberá mais atualizações. Pagamentos dos tipos pix, boleto e cartão foram incorporados em um único módulo. Faça o download clicando [aqui](https://github.com/gerencianet/gn-api-opencart) 
+
 # Módulo de Integração Gerencianet Pix para OpenCart Brasil #
 
 :warning: **Este módulo é compatível apenas com as versões do OpenCart 3.0.3.3 (Brasil 1.5.0) ou superior.**:warning:
